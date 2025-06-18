@@ -3,19 +3,19 @@
     /* Pink Palette */
     --pink-50: #fdf2f8;
     --pink-100: #fce7f3;
-    --pink-200: #fbcfe8;
-    --pink-300: #f9a8d4;
-    --pink-400: #f472b6;
-    --pink-500: #ec4899;
-    --pink-600: #db2777;
-    --pink-700: #be185d;
-    --pink-800: #9d174d;
-    --pink-900: #831843;
+    --pink-200: #5d9fb3;
+    --pink-300: #a8d2f9;
+    --pink-400: #3985c4;
+    --pink-500: #6686c2;
+    --pink-600: #3a7ca8;
+    --pink-700: #18b8be;
+    --pink-800: #437fa7;
+    --pink-900: #185883;
     
     /* Gray Palette */
     --gray-50: #f9fafb;
     --gray-100: #f3f4f6;
-    --gray-200: #e5e7eb;
+    --gray-200: #92a7d1;
     --gray-300: #d1d5db;
     --gray-400: #9ca3af;
     --gray-500: #6b7280;
@@ -432,18 +432,18 @@ main {
 }
 
 .breadcrumb-item a {
-    color: #ec4899;
+    color: #3985c4;
     text-decoration: none;
     transition: color 0.2s ease;
 }
 
 .breadcrumb-item a:hover {
-    color: #be185d;
+    color: #185883;
     text-decoration: underline;
 }
 
 .breadcrumb-item.active {
-    color: #be185d;
+    color: #185883;
     font-weight: 500;
 }
 
@@ -537,7 +537,7 @@ main {
 .current-price {
     font-size: 1.75rem;
     font-weight: 700;
-    color: #ec4899;
+    color: #3985c4;
 }
 
 .old-price {
@@ -655,7 +655,7 @@ main {
     justify-content: center;
     width: 100%;
     padding: 0.875rem 1rem;
-    background-color: #ec4899;
+    background-color: #3985c4;
     color: white;
     border: none;
     border-radius: 0.375rem;
@@ -828,7 +828,7 @@ main {
 .related-price {
     font-size: 1rem;
     font-weight: 700;
-    color: #ec4899;
+    color: #3985c4;
     margin-bottom: 0.75rem;
 }
 
